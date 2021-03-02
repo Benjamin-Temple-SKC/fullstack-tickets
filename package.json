@@ -8,9 +8,7 @@
         "start": "node server.js",
         "dev": "nodemon server.js"
     },
-    "repository": {
-
-    },
+    "repository": {},
     "author": "",
     "license": "ISC",
     "dependencies": {
@@ -20,5 +18,8 @@
         "express": "^4.17.1",
         "express-openid-connect": "^2.2.1",
         "mongodb": "^3.6.3"
-    }
+    },
+    "engines": {
+        "node": "15.10.0"
+      }
 }
