@@ -1,5 +1,5 @@
-# Basic Ticket Tracker CRUD App 
-## Using Node, Express, and MongoDB + jQuery Datatables
+# Demo - Ticket Tracker CRUD App 
+## Using Node, Express, and MongoDB, secured with Auth0
 
 Note that this app uses Fetch to make requests, but you could easily use Axios, jQuery, or any other request tools.  You could also easily integrate React.
 
